@@ -7,7 +7,7 @@ Contact Info: andeuber@loyola.edu
 Hello! I am a college student at Loyola University of Maryland, and I have been practicing my coding skills all semester.
 With skills in problem-solving, Python coding, debugging, and logical thinking, I have been able to develop functional programs and achieve accurate and efficient results. I have become adept at using Python, GitHub, and Excel.
 My strong skill set, commitment to learning, and passion for technology and programming makes me a valuable asset. In my spare time, I love to workout and to learn new skills.
-You can find me on Instagram: https://www.instagram.com/alexdeuber/
+You can find me on [Instagram.](https://www.instagram.com/alexdeuber/)
 ### Education 
 I graduated from Calvert Hall College High School in 2025 and am now a freshman at Loyola University of Maryland.
 
